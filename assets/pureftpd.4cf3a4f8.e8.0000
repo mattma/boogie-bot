@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+	
+	<PLAYLIST>
+	<SONG URL="assets/track1.mp3" COVERART="assets/track1.jpg" TITLE="She Hates Me"      ARTIST="Song Title: She Hates Me             Artist: Paddle of Mudd              Album: Come Clean" 	ALBUM="Come Clean" BIGCOVERART="assets/track1_big.jpg"/>
+	<SONG URL="assets/track2.mp3" COVERART="assets/track2.jpg" TITLE="45"                ARTIST="Song Title: 45      	       Artist: Shinedown                    Album: Leave A Whisper" 	ALBUM="Leave A Whisper" BIGCOVERART="assets/track2_big.jpg"/>
+	<SONG URL="assets/track3.mp3" COVERART="assets/track3.jpg" TITLE="Ain't It the Life" ARTIST="Song Title: Ain't It the Life    Artist: Foo Fighter    Album: There Is Nothing Left To Lose" 	ALBUM="There Is Nothing Left To Lose" BIGCOVERART="assets/track3_big.jpg"/>
+	<SONG URL="assets/track4.mp3" COVERART="assets/track4.jpg" TITLE="Over You"          ARTIST="Song Title: Over You              Artist: Daughtry          Album: Daughtry" 					ALBUM="Daughtry" BIGCOVERART="assets/track4_big.jpg"/>
+	<SONG URL="assets/track5.mp3" COVERART="assets/track5.jpg" TITLE="100 in a 55"       ARTIST="Song Title: 100 in a 55              Artist: Pop Evil                 Album: XOXO" 		    ALBUM="XOXO" BIGCOVERART="assets/track5_big.jpg"/>
+	<SONG URL="assets/track6.mp3" COVERART="assets/track6.jpg" TITLE="One Day Too Late"  ARTIST="Song Title: One Day Too Late         Artist: Skillet          Album: Awake" 					ALBUM="Awake" BIGCOVERART="assets/track6_big.jpg"/>
+	<SONG URL="assets/track7.mp3" COVERART="assets/track7.jpg" TITLE="World So Cold"     ARTIST="Song Title: World So Cold           Artist: 3 Days Grace           Album: Life Starts Now" 	ALBUM="Life Starts Now"
+BIGCOVERART="assets/track7_big.jpg"/>
+	<SONG URL="assets/track8.mp3" COVERART="assets/track8.jpg" TITLE="Disipline"    	 ARTIST="Song Title: Disipline              Artist: Nine Inch Nails           Album: The slip" 				ALBUM="The slip" BIGCOVERART="assets/track8_big.jpg"/>
+	<SONG URL="assets/track9.mp3" COVERART="assets/track9.jpg" TITLE="1901"     		 ARTIST="Song Title: 1901              Artist: Pheonix             Album: Wolfgang Amadeus Phoenix" 	ALBUM="Wolfgang Amadeus Phoenix" BIGCOVERART="assets/track9_big.jpg"/>
+	<SONG URL="assets/track10.mp3" COVERART="assets/track10.jpg" TITLE="Digital Love"    ARTIST="Song Title: Digital Love            Artist: Daft Punk            Album: Discovery" 	ALBUM="Discovery" BIGCOVERART="assets/track10_big.jpg"/>
+	
+	</PLAYLIST>
